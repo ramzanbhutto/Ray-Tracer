@@ -39,7 +39,7 @@ This project implements a ray tracer, a rendering algorithm that simulates the w
   
 3. Run the ray tracer:
     ```bash
-    ./RayTracer > image.ppm
+    ./rayTracer > image.ppm
     ```  
 
 4. It will generate output in ppm format so install *feh* in you system then run it to preview the output image.
