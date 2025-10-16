@@ -8,7 +8,6 @@ set(SOURCES
 
 # List all header files
 set(HEADERS
-    camera.h
     color.h
     hittable.h
     hittable_list.h
